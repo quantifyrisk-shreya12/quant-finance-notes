@@ -22,4 +22,35 @@ This repository contains my **handwritten notes** capturing the **fundamental co
 - Hedging Strategies (Delta Hedging, Replication)
 
 ---
+
+
+
+---
+
+## ✍️ Why Handwritten?
+
+Writing by hand helps me internalize abstract mathematical and financial concepts deeply. These notes are not just summaries — they’re my personal way of distilling theory into intuition.
+
+---
+
+## 🚀 Work in Progress
+
+More topics will be added as I continue my coursework and self-study in:
+
+- Interest Rate Models  
+- Credit Risk Theory  
+- Advanced Derivatives  
+- Regulatory Capital Modeling
+
+---
+
+## 📫 Connect
+
+
 I will continously change this readme and add notes so stay tuned. 
+Feel free to reach out if you're exploring similar topics!
+
+- [LinkedIn](https://www.linkedin.com/in/shreyabiswas)  
+- Email: shreya.9253@gmail.com
+
+
